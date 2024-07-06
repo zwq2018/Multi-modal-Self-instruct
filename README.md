@@ -36,8 +36,8 @@ For more details, please refer to the project page with dataset exploration and 
 | Gemini-Pro-Vision | 43.11 | 64.92 | 3.76 | 38.87 | 41.12 | 36.09 | 29.68 | 70.12 | 40.96 |
 | Gemini-1.5-Pro | 43.41 | 63.78 | 3.77 | 38.71 | 41.85 | 35.55 | 30.62 | 69.32 | 40.88 |
 | Qwen-VL-Plus   | 40.1 | 51.6 | 18.6 | 26.4 | 52.2 | 32.5 | 32.3 | 61.5 | 39.4 |
-| Deepseek-VL-Chat-7B | 25.2 | 31.1 | 18.8 | 18.2 | 37.6 | 20.8 | 15.0 | 47.2 | 26.7 |
-| Vanilla Llava-1.5-7B | 10.5 | 15.8 | 0.3 | 16.5 | 29.6 | 9.6 | 3.4 | 37.7 | 15.4 |
+| Deepseek-VL-7B | 25.2 | 31.1 | 18.8 | 18.2 | 37.6 | 20.8 | 15.0 | 47.2 | 26.7 |
+| Llava-1.5-7B | 10.5 | 15.8 | 0.3 | 16.5 | 29.6 | 9.6 | 3.4 | 37.7 | 15.4 |
 | Llava-our-$62k$ | 30.3 | 51.8 | 67.7* | 16.5 | 30.1 | 12.3 | 3.6 | 44.1 | 32.0 |
 
 *Bold indicates the best performance. $^{\ast}$ indicates the second highest.*
