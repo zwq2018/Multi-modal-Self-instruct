@@ -75,19 +75,19 @@ data-engine/
     pip install -r requirements.txt
     ```
 ## Abstract Image Generation
-3. Domain generation.  
+1. Domain generation.  
    Options for `type`: organization, algorithm, flowchart, dashboard.
     ```bash
     python boostrap_domains.py --type xxx
     ```
    
-4. Data and plots generation.  
+2. Data and plots generation.  
    Options for `type`: organization, algorithm, flowchart, dashboard.
    ```bash
     python entry.py --type xxx
     ```
 
-5. For visual puzzles in `data_generator/iq`, run
+3. For visual puzzles in `data_generator/iq`, run
    ```bash
     python iq.py
     ```
