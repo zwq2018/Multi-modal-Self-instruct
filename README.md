@@ -15,7 +15,6 @@ data-engine/
 │ ├── bootstrap_domains.py
 │ ├── gpt4_tools.py
 │ └── filter.py
-├── dataset/
 ├── README.md
 └── requirements.txt
 ```
