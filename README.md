@@ -2,7 +2,7 @@
 # Multi-modal Self-Instruct
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://github.com/zwq2018/Multi-modal-Self-instruct)
 [![Project](https://img.shields.io/badge/Project-Website-blue.svg)](https://multi-modal-self-instruct.github.io)
-[![HuggingFace Datasets](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/your_dataset_name)
+[![HuggingFace Datasets](https://img.shields.io/badge/HuggingFace-Classic%20Smile-orange.svg)](https://huggingface.co/datasets/your_dataset_name)
 
 
 
@@ -53,7 +53,7 @@ data-engine/
     ```bash
     pip install -r requirements.txt
     ```
-## Data Generation
+## Abstract Image Generation
 3. Domain generation.  
    Options for `type`: organization, algorithm, flowchart, dashboard.
     ```bash
@@ -71,6 +71,6 @@ data-engine/
     python iq.py
     ```
 
-## Our benchmark Evaluation
+## Evaluation
 
 
