@@ -1,7 +1,9 @@
 
 # Multi-modal Self-Instruct
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://github.com/zwq2018/Multi-modal-Self-instruct)
-[![Project](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://multi-modal-self-instruct.github.io)
+[![Project](https://img.shields.io/badge/Project-Website-blue.svg)](https://multi-modal-self-instruct.github.io)
+[![HuggingFace Datasets](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/your_dataset_name)
+
 
 
 The codebase for our paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
