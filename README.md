@@ -21,6 +21,7 @@ For more details, please refer to the project page with dataset exploration and 
 
 - We synthesized **62,476** chart and road map instructions for fine-tuning, verifying the effectiveness of the synthesized data.
   
+![Our Benchmark](fig/1.png)
 
 
 ## Installation
