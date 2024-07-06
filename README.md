@@ -1,5 +1,7 @@
 
-# Self-Instruct Data Engine
+# Multi-modal Self-Instruct
+
+Our strategy effortlessly creates a multimodal benchmark with 11,193 instructions for eight visual scenarios: **charts**, **tables**, **simulated maps**, **dashboards**, **flowcharts**, **relation graphs**, **floor plans**, and **visual puzzles**. Our benchmark, constructed with simple lines and geometric elements, exposes the shortcomings of advanced LMMs like Claude-3.5-Sonnet and GPT-4o in abstract image understanding, spatial relations reasoning, and visual element induction.
 
 ```text
 data-engine/
