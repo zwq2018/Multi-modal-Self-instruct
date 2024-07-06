@@ -19,7 +19,7 @@ data-engine/
 └── requirements.txt
 ```
 
-## Download
+## Installation
 
 1. Install `Graphviz` and `phantomjs` to make sure you can save images locally.
    
@@ -30,7 +30,7 @@ data-engine/
     ```bash
     pip install -r requirements.txt
     ```
-
+## Data Generation
 3. Domain generation.  
    Options for `type`: organization, algorithm, flowchart, dashboard.
     ```bash
@@ -48,4 +48,6 @@ data-engine/
     python iq.py
     ```
 
-6. Currently available data is in `dataset`.
+## Our benchmark Evaluation
+
+
