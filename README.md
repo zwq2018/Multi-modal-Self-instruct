@@ -1,14 +1,27 @@
 
 # Multi-modal Self-Instruct
+The codebase for our paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
 
+[![Open in Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/zwq2018/Data-Copilot)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2306.07209)
+
+For more details, please refer to the project page with dataset exploration and visualization tools: [https://multi-modal-self-instruct.github.io](https://multi-modal-self-instruct.github.io).
+
+
+
+
+## What is Multi-modal Self-Instruct?
 - We identify that current LMMs have a significant gap compared to humans in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. 
 
 - Utilizing LLM and code, We design a multi-modal self-instruct strategy to synthesize a diverse set of abstract images and reasoning instructions, providing value data for LMMs.
 
 - We synthesized a benchmark of 11,193 high-quality abstract images, covering eight common scenarios: **charts**, **tables**, **simulated maps**, **dashboards**, **flowcharts**, **relation graphs**, **floor plans**, and **visual puzzles**. Our benchmark exposes the shortcomings of advanced LMMs like Claude-3.5-Sonnet and GPT-4o in abstract image understanding, spatial relations reasoning, and visual element induction.
 
-- Besides, we synthesized 62,476 chart and road map instructions for fine-tuning, verifying the effectiveness of the synthesized data.
+- We synthesized **62,476** chart and road map instructions for fine-tuning, verifying the effectiveness of the synthesized data.
   
+
+
+## Installation
 
 ```text
 data-engine/
@@ -27,8 +40,6 @@ data-engine/
 ├── README.md
 └── requirements.txt
 ```
-
-## Installation
 
 1. Install `Graphviz` and `phantomjs` to make sure you can save images locally.
    
