@@ -13,7 +13,7 @@ For more details, please refer to the project page with dataset exploration and 
 
 
 ## What is Multi-modal Self-Instruct?
-- We identify that current LMMs have a significant gap compared to humans in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. 
+- We identify that current LMMs have a significant gap compared to humans in understanding and visually reasoning about **abstract images**, such as maps, charts, and layouts. 
 
 - Utilizing LLM and code, We design a multi-modal self-instruct strategy to synthesize a diverse set of abstract images and reasoning instructions, providing value data for LMMs.
 
