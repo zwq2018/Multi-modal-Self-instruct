@@ -8,7 +8,8 @@
 The codebase for our paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model
 
 For more details, please refer to the project page with dataset exploration and visualization tools: [https://multi-modal-self-instruct.github.io](https://multi-modal-self-instruct.github.io).
-<img src="fig/ranking.png" alt="Our Benchmark" width="400"/>
+
+<img src="fig/ranking.png" alt="Our Benchmark" width="600"/>
 
 
 ## What is Multi-modal Self-Instruct?
