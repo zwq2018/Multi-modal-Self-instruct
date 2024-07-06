@@ -1,7 +1,14 @@
 
 # Multi-modal Self-Instruct
 
-Our strategy effortlessly creates a multimodal benchmark with 11,193 instructions for eight visual scenarios: **charts**, **tables**, **simulated maps**, **dashboards**, **flowcharts**, **relation graphs**, **floor plans**, and **visual puzzles**. Our benchmark, constructed with simple lines and geometric elements, exposes the shortcomings of advanced LMMs like Claude-3.5-Sonnet and GPT-4o in abstract image understanding, spatial relations reasoning, and visual element induction.
+- We identify that current LMMs have a significant gap compared to humans in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. 
+
+- Utilizing LLM and code, We design a multi-modal self-instruct strategy to synthesize a diverse set of abstract images and reasoning instructions, providing value data for LMMs.
+
+- We synthesized a benchmark of 11,193 high-quality abstract images, covering eight common scenarios: **charts**, **tables**, **simulated maps**, **dashboards**, **flowcharts**, **relation graphs**, **floor plans**, and **visual puzzles**. Our benchmark exposes the shortcomings of advanced LMMs like Claude-3.5-Sonnet and GPT-4o in abstract image understanding, spatial relations reasoning, and visual element induction.
+
+- Besides, we synthesized 62,476 chart and road map instructions for fine-tuning, verifying the effectiveness of the synthesized data.
+  
 
 ```text
 data-engine/
