@@ -19,7 +19,7 @@ For more details, please refer to the project page with dataset exploration and 
 
 - We synthesized a benchmark of 11,193 high-quality abstract images, covering eight common scenarios: **charts**, **tables**, **simulated maps**, **dashboards**, **flowcharts**, **relation graphs**, **floor plans**, and **visual puzzles**. Our benchmark exposes the shortcomings of advanced LMMs like Claude-3.5-Sonnet and GPT-4o in abstract image understanding, spatial relations reasoning, and visual element induction.
 
-- We synthesized **62,476** chart and road map instructions for fine-tuning, verifying the effectiveness of the synthesized data.
+- We also synthesized **62,476** charts, tables, and road map instructions for fine-tuning, verifying the effectiveness of the synthesized data.
   
 ![Our Benchmark](fig/figure1_final.png)
 
@@ -93,5 +93,14 @@ data-engine/
     ```
 
 ## Evaluation
+We present a collection of 11,193 high-quality abstract images and corresponding question-answer pairs, meticulously curated using our multi-modal self-instruct strategy within the Huggingface dataset. You can use these benchmarks for evaluating your own VLMs.
+
+Additionally, we offer 62,476 training instructions, including tables, charts, and road maps. 
+
+The following methodologies are provided for evaluating new models.
+
+
+
+
 
 
