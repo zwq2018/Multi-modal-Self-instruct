@@ -100,6 +100,30 @@ Additionally, we offer 62,476 training instructions, including tables, charts, a
 The following methodologies are provided for evaluating new models.
 
 
+In `scripts` folder, we provide automatic evaluation pipeline to evaluate your models.
+
+1. Run `eval_model.py` to produce evaluation result for a specificy model and a task.
+
+   You need to fill in `engine = 'xxx'`, `task = 'xxx'` and `xxx/eval_xxxk.json` to specify the model and the task.
+
+   In `llm_tools.py`, you need to fill in `<Your-Api Key>`, `url = "xxx"` and `engine == "xxx"`.
+   
+    ```bash
+    python eval_model.py
+    ```
+
+2. Run `eval_vqa.py` to check the accuracy of a model on a task.
+
+   Function `evaluator('./xxx.json')` will test the accuracy of the model on charts, tables, dashboards, flowcharts, relation graphs, floor plans, and visual puzzles(7 tasks).
+
+   Function `evaluator_map('./xxx.json')` will test the accuracy of the model on simulated maps(1 task).
+   
+   ```bash
+    python eval_vqa.py
+    ```
+
+## Citation
+
 
 
 
