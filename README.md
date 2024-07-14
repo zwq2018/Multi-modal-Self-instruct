@@ -124,14 +124,14 @@ In `scripts` folder, we provide automatic evaluation pipeline to evaluate your m
 
 ## Citation
 
-'''
+```
 @article{zhang2024multimodal,
   title={Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model},
   author={Zhang, Wenqi and Cheng, Zhenglin and He, Yuanyu and Wang, Mengna and Shen, Yongliang and Tan, Zeqi and Hou, Guiyang and He, Mingqian and Ma, Yanna and Lu, Weiming and others},
   journal={arXiv preprint arXiv:2407.07053},
   year={2024}
 }
-'''
+```
 
 
 
