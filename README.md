@@ -78,7 +78,7 @@ data-engine/
 1. Domain generation.  
    Options for `type`: organization, algorithm, flowchart, dashboard.
     ```bash
-    python boostrap_domains.py --type xxx
+    python bootstrap_domains.py --type xxx
     ```
    
 2. Data and plots generation.  
