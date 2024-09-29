@@ -1,4 +1,3 @@
-Congratulations!!! The conference of EMNLP-24 main has accepted our paper.
 
 
 # Multi-modal Self-Instruct
@@ -6,6 +5,11 @@ Congratulations!!! The conference of EMNLP-24 main has accepted our paper.
 [![Project](https://img.shields.io/badge/Project-Website-blue.svg)](https://multi-modal-self-instruct.github.io)
 [![Datasets](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/Multi-modal-Self-instruct)
 
+
+
+🎆 [New 0920] **Our paper is accepted by ACL 2024 Main**
+
+🎆 [New 0227] **Our article has been noticed and reported by social media(新智元): [![QbitAI Article](https://img.shields.io/badge/QbitAI-Article-007bff.svg)](https://www.thepaper.cn/newsDetail_forward_28346662).
 
 The codebase for our paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model (https://arxiv.org/abs/2407.07053)
 
