@@ -1,4 +1,4 @@
-Congratulations!!! Our paper has been accepted by the main conference of EMNLP-24.
+Congratulations!!! The conference of EMNLP-24 main has accepted our paper.
 
 
 # Multi-modal Self-Instruct
