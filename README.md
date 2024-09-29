@@ -1,3 +1,5 @@
+Congratulations!!! Our paper has been accepted by the main conference of EMNLP-24.
+
 
 # Multi-modal Self-Instruct
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2407.07053)
