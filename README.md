@@ -9,7 +9,7 @@
 
 🎆 [New 0920] **Our paper is accepted by EMNLP 2024 Main**
 
-🎆 [New 0801] **Our paper has been noticed and reported by social media: ![新智元](https://www.thepaper.cn/newsDetail_forward_28346662).**
+🎆 [New 0801] **Our paper has been noticed and reported by social media: [新智元](https://www.thepaper.cn/newsDetail_forward_28346662).**
 
 The codebase for our paper: Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model (https://arxiv.org/abs/2407.07053)
 
