@@ -15,7 +15,7 @@ The codebase for our paper: Multimodal Self-Instruct: Synthetic Abstract Image a
 
 For more details, please refer to the project page with dataset exploration and visualization tools: [https://multi-modal-self-instruct.github.io](https://multi-modal-self-instruct.github.io).
 
-<img src="fig/ranking2.png" alt="Our Benchmark" width="800"/>
+<img src="fig/figure0_ranking_all_LMM.png" alt="Our Benchmark" width="800"/>
 
 
 ## What is Multi-modal Self-Instruct?
